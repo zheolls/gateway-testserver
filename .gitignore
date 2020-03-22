@@ -1,0 +1,14 @@
+target/
+HELP.md
+
+.project
+*.prefs
+
+##VS Code##
+.vscode/
+
+## Maven ##
+/mvnw
+/mvnw.cmd
+.mvn/
+.classpath
